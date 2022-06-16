@@ -1,4 +1,67 @@
-### Hi there 👋
+# Hi. 🙆‍♂️ I'm Ben. 
+
+
+## 🙋‍♂️ What I am:
+
+I'm an overenthusiastic data herder who spends a shedload of time worrying about **[ergodic fiction](https://en.wikipedia.org/wiki/Ergodic_literature)** and **[baseball](https://www.fangraphs.com/)**, and I am an indiscriminate connoisseur of **[valueless trivia](https://en.wikipedia.org/wiki/Wikipedia:Random)**.
+
+I enjoy photoshopping my friends and loved ones into pictures of places they've never been, having those creations printed and at a print lab and tastefully framed, and then covertly [droplifting](https://en.wiktionary.org/wiki/droplifting#:~:text=Noun,form%20of%20countercultural%20performance%20art) those lies onto a wall, desk, or mantle in their home.
+
+In my free time, I run a small [engineering consulting company](https://www.readylimit.com/) and frisbee my [dog](https://www.instagram.com/dangerkermit).
+
+## 🧑‍💻 What I do:
+
+I find and write about interesting, albiet often broadly inconsequential [data](https://miro.medium.com/max/1050/1*6c9bsATfG5snMP-j4RT2cw.png)[^1] or **[anomalies](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/10/AR2007081001606_pf.html)**. 
+
+If there existed a single screengrab that comprised the intersection of my journalistic interests, intellectual passions, irreverential jollifications, and celebrations of the remarkable — no matter how small — it might look something like this:
+
+![IMG_3425](https://user-images.githubusercontent.com/48364609/174190731-b3bd5168-404d-482f-9e3a-48be25194280.jpeg)
+[^1]: This isn't my work. But I wish it was. (credit: [Mike Beneschan](https://mikebeneschan.medium.com/))
+
+## 🤷‍♂️ Where I wonder:
+
+I'm very interested in Normative Decision Theory as can be applied to the completely irrational:
+
+```markdown
+Let's say that I could fling a basketball backward, over my head, and drain it from anywhere on the court: 
+
+Full court, diving out of bounds?
+                    Nothing but net.
+                    
+Free throw for the Game 7 dagger before a hostile crowd? 
+                    Watch me yawn.
+                    
+Shaq and Kareem double-team in the corner? 
+                    Who cares; it's going in off the bank.
+```
+
+So if I could make that shot _100% of the time_ — pure 100%, no rounding — would you stick me on an NBA bench, knowing full well that I'd about as useful as a toddler when it came time to play defense?
+
+I mean, maybe. 
+
+Hell, maybe even **probably**.
+
+Okay, so what about 99% of the time?
+
+98%?
+
+_95%...?_
+
+There comes a point where I'm not worth the roster slot. **_But what is that point?_**[^2]
+
+These are the difficult questions that deserve solid answers. These are the sorts of places I like to play.
+
+[^2]: It still might be 100%.
+
+## 🧑‍🚀 What I've been:
+
+I come from a literature background. I spent a minute in the basement of the Ivory Tower researching [grumpy, dead poets](https://www.google.com/books/edition/Commandeering_Death/Ad6YQwAACAAJ?hl=en) who would have been absolutely wild on Twitter.
+
+After that, I wrote a [novel](https://www.google.com/books/edition/Sifting_Through_Static/4rjqsgEACAAJ?hl=en) that garnered ones and ones of rave reviews. 
+
+>![SCR-20220616-lr6](https://user-images.githubusercontent.com/48364609/174190116-b5f4642b-8322-48be-a73b-24f3a6a31006.png)
+
+Since then, I've edited some [textbooks](https://www.google.com/books/edition/A_Day_in_the_Life_of_an_American_Worker/t7S8xAEACAAJ?hl=en) and lent a hand with some [articles](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00220-2).
 
 <!--
 **obverter/obverter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
