@@ -7,11 +7,13 @@ I'm an overenthusiastic data herder who spends a shedload of time worrying and w
 
 I am a shameless dilettante, and I am an indiscriminate connoisseur of **[pub trivia](https://en.wikipedia.org/wiki/Wikipedia:Random)**.
 
-When I'm not being productive, I enjoy photoshopping my friends and loved ones into pictures of places they've never been, sending those files to a print lab to be rendered and tastefully framed, and then covertly [droplifting](https://en.wiktionary.org/wiki/droplifting#:~:text=Noun,form%20of%20countercultural%20performance%20art) those lies onto a wall, desk, or mantle in their home. 
+When I'm not being productive, I enjoy photoshopping my friends and loved ones into pictures of places they've never been, sending those files to a print lab to be rendered and tastefully framed, and then covertly [droplifting](https://en.wiktionary.org/wiki/droplifting#:~:text=Noun,form%20of%20countercultural%20performance%20art) those lies onto a wall, desk, or mantle in their homes. 
 
 Some have hung unnoticed for ***years***.
 
-In my free time, I run a boutique [environmental engineering consultancy](https://www.readylimit.com/), collect hobbies, and frisbee my [dog](https://www.instagram.com/dangerkermit) into the Shadow Realm.
+In my free time enjoy collecting hobbies, giving up on personal projects, and frisbeeing my [dog](https://www.instagram.com/dangerkermit) into the Shadow Realm.
+
+Also I run a boutique [environmental engineering consultancy](https://www.readylimit.com/).
 
 ## 🧑‍💻 What I do:
 
