@@ -7,7 +7,9 @@ I'm an overenthusiastic data herder who spends a shedload of time worrying and w
 
 I am a shameless dilettante, and I am an indiscriminate connoisseur of **[pub trivia](https://en.wikipedia.org/wiki/Wikipedia:Random)**.
 
-When I'm not being productive, I enjoy photoshopping my friends and loved ones into pictures of places they've never been, sending those files to a print lab to be rendered and tastefully framed, and then covertly [droplifting](https://en.wiktionary.org/wiki/droplifting#:~:text=Noun,form%20of%20countercultural%20performance%20art) those lies onto a wall, desk, or mantle in their home. Some have hung unnoticed for ***years***.
+When I'm not being productive, I enjoy photoshopping my friends and loved ones into pictures of places they've never been, sending those files to a print lab to be rendered and tastefully framed, and then covertly [droplifting](https://en.wiktionary.org/wiki/droplifting#:~:text=Noun,form%20of%20countercultural%20performance%20art) those lies onto a wall, desk, or mantle in their home. 
+
+Some have hung unnoticed for ***years***.
 
 In my free time, I run a boutique [environmental engineering consultancy](https://www.readylimit.com/), collect hobbies, and frisbee my [dog](https://www.instagram.com/dangerkermit) into the Shadow Realm.
 
@@ -34,7 +36,7 @@ Free throw for the Game 7 dagger before a hostile crowd?
                     Watch me yawn.
                     
 Shaq and Kareem double-team in the corner? 
-                    Who cares; it's going in off the bank.
+                    How 'bout I bank it off the top of the glass.
 ```
 
 So if I could make that shot _100% of the time_ — pure 100%, no rounding — would you stick me on an NBA bench, knowing full well that I'd about as useful as a toddler when it came time to play defense?
