@@ -3,17 +3,19 @@
 
 ## 🙋‍♂️ What I am:
 
-I'm an overenthusiastic data herder who spends a shedload of time worrying about **[ergodic fiction](https://en.wikipedia.org/wiki/Ergodic_literature)** and **[baseball](https://www.fangraphs.com/)**, and I am an indiscriminate connoisseur of **[valueless trivia](https://en.wikipedia.org/wiki/Wikipedia:Random)**.
+I'm an overenthusiastic data herder who spends a shedload of time worrying and writing about, among other things, **[ergodic fiction](https://en.wikipedia.org/wiki/Ergodic_literature)** and **[millionaires standing around outside in their pajamas](https://www.fangraphs.com/)**.
 
-I enjoy photoshopping my friends and loved ones into pictures of places they've never been, having those creations printed and at a print lab and tastefully framed, and then covertly [droplifting](https://en.wiktionary.org/wiki/droplifting#:~:text=Noun,form%20of%20countercultural%20performance%20art) those lies onto a wall, desk, or mantle in their home.
+I am a shameless dilettante, and I am an indiscriminate connoisseur of **[pub trivia](https://en.wikipedia.org/wiki/Wikipedia:Random)**.
 
-In my free time, I run a small [engineering consulting company](https://www.readylimit.com/) and frisbee my [dog](https://www.instagram.com/dangerkermit).
+When I'm not being productive, I enjoy photoshopping my friends and loved ones into pictures of places they've never been, sending those files to a print lab to be rendered and tastefully framed, and then covertly [droplifting](https://en.wiktionary.org/wiki/droplifting#:~:text=Noun,form%20of%20countercultural%20performance%20art) those lies onto a wall, desk, or mantle in their home. Some have hung unnoticed for ***years***.
+
+In my free time, I run a boutique [environmental engineering consultancy](https://www.readylimit.com/), collect hobbies, and frisbee my [dog](https://www.instagram.com/dangerkermit) into the Shadow Realm.
 
 ## 🧑‍💻 What I do:
 
 I find and write about interesting, albiet often broadly inconsequential [data](https://miro.medium.com/max/1050/1*6c9bsATfG5snMP-j4RT2cw.png)[^1] or **[anomalies](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/10/AR2007081001606_pf.html)**. 
 
-If there existed a single screengrab that comprised the intersection of my journalistic interests, intellectual passions, irreverential jollifications, and celebrations of the remarkable — no matter how small — it might look something like this:
+If there existed a single screengrab that comprised the intersection of my journalistic interests, intellectual passions, irreverential jollifications, and penchant to celebrate the irremarkable — it might look something like this:
 
 ![IMG_3425](https://user-images.githubusercontent.com/48364609/174190731-b3bd5168-404d-482f-9e3a-48be25194280.jpeg)
 [^1]: This isn't my work. But I wish it was. (credit: [Mike Beneschan](https://mikebeneschan.medium.com/))
@@ -63,6 +65,7 @@ After that, I wrote a [novel](https://www.google.com/books/edition/Sifting_Throu
 
 Since then, I've edited some [textbooks](https://www.google.com/books/edition/A_Day_in_the_Life_of_an_American_Worker/t7S8xAEACAAJ?hl=en) and lent a hand with some [articles](https://www.cell.com/one-earth/fulltext/S2590-3322(22)00220-2).
 
+Thank you for coming to my TED Talk.
 <!--
 **obverter/obverter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
