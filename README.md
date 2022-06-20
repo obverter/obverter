@@ -1,7 +1,4 @@
-# Hi. 🙆‍♂️ I'm Ben. 
-
-
-## 🙋‍♂️ What I am:
+# Oh hi. I'm Ben.
 
 I'm an overenthusiastic data herder who spends a shedload of time worrying and writing about, among other things, **[ergodic fiction](https://en.wikipedia.org/wiki/Ergodic_literature)** and **[millionaires standing around outside in their pajamas](https://www.fangraphs.com/)**.
 
@@ -17,7 +14,7 @@ Also I run a boutique [environmental engineering consultancy](https://www.readyl
 
 ## 🧑‍💻 What I do:
 
-I find and write about interesting, albiet often broadly inconsequential [data](https://miro.medium.com/max/1050/1*6c9bsATfG5snMP-j4RT2cw.png)[^1] or **[anomalies](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/10/AR2007081001606_pf.html)**. 
+I find and write about interesting, albiet often broadly inconsequential [data](https://miro.medium.com/max/1050/1*6c9bsATfG5snMP-j4RT2cw.png)[^1] or **[anomalies](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/10/AR2007081001606_pf.html)**. In this doomscrolly world we live in, I try to spend energy on making, curating, and foregrounding miniature meaninfullnesses and positive debris.
 
 If there existed a single screengrab that comprised the intersection of my journalistic interests, intellectual passions, irreverential jollifications, and penchant to celebrate the irremarkable — it might look something like this:
 
@@ -26,20 +23,23 @@ If there existed a single screengrab that comprised the intersection of my journ
 
 ## 🤷‍♂️ Where I wonder:
 
-I'm very interested in Normative Decision Theory as can be applied to the completely irrational:
+I'm interested in Normative Decision Theory as can be applied to the completely irrational:
 
-```markdown
 Let's say that I could fling a basketball backward, over my head, and drain it from anywhere on the court: 
 
-Full court, diving out of bounds?
-                    Nothing but net.
+>Full court, diving out of bounds?
+                   
+Nothing but net.
                     
-Free throw for the Game 7 dagger before a hostile crowd? 
-                    Watch me yawn.
+>Free throw for the Game 7 dagger before a hostile crowd? 
+                   
+Watch me yawn.
                     
-Shaq and Kareem double-team in the corner? 
-                    How 'bout I bank it off the top of the glass.
-```
+>Shaq and Kareem double-team in the corner? 
+
+How 'bout I bank it off the top of the glass.
+
+---
 
 So if I could make that shot _100% of the time_ — pure 100%, no rounding — would you stick me on an NBA bench, knowing full well that I'd about as useful as a toddler when it came time to play defense?
 
@@ -59,7 +59,7 @@ These are the difficult questions that deserve solid answers. These are the sort
 
 [^2]: It still might be 100%.
 
-## 🧑‍🚀 What I've been:
+## 🧑‍🚀 The People I've Been:
 
 I come from a literature background. I spent a minute in the basement of the Ivory Tower researching [grumpy, dead poets](https://www.google.com/books/edition/Commandeering_Death/Ad6YQwAACAAJ?hl=en) who would have been absolutely wild on Twitter.
 
